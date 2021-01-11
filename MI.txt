@@ -1,0 +1,17 @@
+===========================================================
+            MUMBAI_INDIANSS(MI)
+===========================================================
+S.NO           PLAYER                   ROLE      JURCY NO
+-----------------------------------------------------------
+1.           EVIN_LEWIS               BATSMEN         04
+2.           ROHIT_SHARMA(C)          BATSMEN         45
+3.           SURYAKUMAR_YADAV         BATSMEN         99
+4.           KIERON_POLLARD           ALL-ROUNDER     14
+5            ISHAN_KISHAN(WK)         BATSMAN         49
+6.           KRUNAL_PANDYA            ALL-ROUNDER     37
+7.           HARDIK_PANDYA            BATSMAN         77
+8.           JASPRIT_BUMRAH           BOWLER          03
+9.           MAYANK_MARKANDE          BOWLER          38
+10.          MUSTAFIZUR_RAHMAN        BOWLER          25
+11.          MITCHELL_MCCLENAGHAN     BOWLER          34
+============================================================
