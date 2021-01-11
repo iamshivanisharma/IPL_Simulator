@@ -1,0 +1,16 @@
+
+          DECCAN CHARGERS(DC)
+=================================================
+S.NO           PLAYER                   ROLE
+1.           SHIKAR_DHAWAN            BATSMEN
+2.           KANE_WILLIAMSON(C)       BATSMEN
+3.           MANISH_PANDEY            BATSMEN
+4.           SHAKIB_A_ HASAN          ALL-ROUNDER
+5            YUSUF_PATAN              ALL-ROUNDER
+6.           DEEPAK_HOODA             ALL-ROUNDER
+7.           WRIDHIMAN_SAHA(WK)       BATSMAN
+8.           BHUVENASEWAR-KUMAR       BOWLER
+9.           RASHID_KHAN              BOWLER
+10.          BILLY_STANLAKE           BOWLER
+11.          SIDDHARTH_KAUL           BOWLER
+-------------------------------------------------
