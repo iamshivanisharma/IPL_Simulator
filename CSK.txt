@@ -1,0 +1,17 @@
+---------------------------------------------------
+            CHENNAI_SUPER_KINGS(CSK)
+---------------------------------------------------
+
+S.NO           PLAYER           JURCY NO.        ROLE
+1.           AMBHATI_RAYUDU       9           BATSMEN
+2.           MS_DHONI(WK)         7           BATSMEN
+3.           SURESH_RAINA         3           BATSMEN
+4.           SAM_BILLINGS         22          ALL-ROUNDER
+5            DWAYNE_BRAVO         10          ALL-ROUNDER
+6.           SHANE_WATSON         44          ALL-ROUNDER
+7.           RAVINDRA_JADEJA      56          ALL-ROUNDER
+8.           HARBHAJAN_SINGH      24          BOWLER
+9.           SHARDUL_THAKUR       21          BOWLER
+10.          DEEPAK_CHAHAR        11          BOWLER
+11.          IMRAN-TAHIR          23          BOWLER
+---------------------------------------------------
