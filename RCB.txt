@@ -1,0 +1,17 @@
+----------------------------------------------------------------
+            ROYAL_CHALLENGERS_BANGALORE(RCB)         
+----------------------------------------------------------------
+S.NO           PLAYER                   ROLE          JURCY NO
+----------------------------------------------------------------
+1.           VIRAT_KOHLI(C)            BATSMEN          17
+2.           SARFARAZ_KHAN             BATSMEN          23
+3.           MANDEEP_SINGH             BATSMEN          78
+4.           QUINTON_DECOCK(WK)        BATSMAN          49 
+5            AB_DE_VILLERS             BATSMAN          66
+6.           COREY_ANDERSON            ALL-ROUNDER      21
+7.           WASHINGTON_SUNDAR         ALL-ROUNDER      33
+8.           CHRIS_WOAKES              BOWLER           08
+9.           UMESH_YADAV               BOWLER           44
+10.          MOHAMMAD_SIRAJ            BOWLER           12
+11.          YUZVENDAR_CHAHAL          BOWLER           31
+================================================================
