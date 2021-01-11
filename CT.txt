@@ -1,0 +1,17 @@
+------------------------------------------------------------
+            COCHI TASKARS(CT)
+------------------------------------------------------------
+S.NO           PLAYER                   ROLE         JURCY NO
+-------------------------------------------------------------
+1.           SHREYAS_IYER             BATSMEN          34
+2.           GAUTAM_GAMBHIR(C)        BATSMEN          04
+3.           JASON_ROY                BATSMEN          66
+4.           GLENN_MAXWELL            ALL-ROUNDER      47
+5            RISHABH_PANT(WK)         BATSMAN          17
+6.           CHRIS_MORIS              ALL-ROUNDER      09
+7.           VIJAY_SHANKAR            ALL-ROUNDER      33
+8.           MOHAMMED_SHAMI           BOWLER           67
+9.           RAHUL_TEWATIA            BOWLER           12
+10.          TRENT_BOULT              BOWLER           22
+11.          HARSHAL-PATEL            BOWLER           01
+=============================================================
